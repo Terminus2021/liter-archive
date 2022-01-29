@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Terminus2021/liter-archive/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Liter
+自由创作的平台，本站使用GitHub Pages 开放平台，提供创作以及作品的存档。  
+讨论请去 [Issues](https://github.com/Terminus2021/liter-archive/issues)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
